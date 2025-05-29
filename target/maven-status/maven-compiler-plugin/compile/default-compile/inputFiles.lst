@@ -1,1 +1,7 @@
-D:\JavaProject\Netologiya\servlet\src\main\java\ru\netology\servlet\MainServlet.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\servlet\MainServlet.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\common\RequestMethods.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\exception\NotFoundException.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\repository\PostRepository.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\service\PostService.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\controller\PostController.java
+D:\Java\Projects_my\servlet\src\main\java\ru\netology\model\Post.java
